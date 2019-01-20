@@ -2,7 +2,7 @@
 Assignment #7
 
 # Crazy Train
-A dynamic train schedule built utilizing Firebase.  Updates in real time.  Allows user input for fun train names!!!
+A dynamic train schedule built utilizing Firebase.  Updates in real time.  Allows user input for fun train names!!! https://djacovini.github.io/Train-Scheduler/
 
 ## Built With
 * [Bootstrap] (CDN) https://www.bootstrapcdn.com/
